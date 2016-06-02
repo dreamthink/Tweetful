@@ -1,0 +1,44 @@
+.masthead-heading,
+.masthead-heading {
+	text-align: center;
+}
+
+.masthead {
+	padding: 6em 0;
+	background-color: #c3c3c3;
+}
+
+.masthead-heading {
+	margin-bottom: 0.1em;
+}
+
+.masthead-intro {
+	margin-top: -0.2em;
+	text-align: center;
+}
+
+.info h1 {
+	text-align: center;
+}
+
+.info-container {
+	text-align: center;
+	background-color: #95d8f9;
+}
+
+.info {
+	vertical-align: top;
+	display: inline-block;
+	width: 30%;
+	padding-left: 30px;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #ffffff;
+}
+
+footer {
+	margin: 1em;
+	text-align: center;
+}
